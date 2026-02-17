@@ -1,3 +1,4 @@
+// LeetCode #704 - Binary Search
 public class P1BinarySearch{
     public static void main(String[] args){
         int[] arr = {2,4,6,8,10,12,14,16};
