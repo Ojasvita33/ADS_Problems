@@ -1,5 +1,5 @@
+// #1 - Two Sum
 import java.util.*;
-// LeetCode #1 - Two Sum
 public class P1TwoSum {
     public static int[] twoSum(int[] nums, int target) {
         HashMap<Integer,Integer> map = new HashMap<>();

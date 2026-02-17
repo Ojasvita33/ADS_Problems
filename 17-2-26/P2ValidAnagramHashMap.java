@@ -1,5 +1,5 @@
+//#242 - Valid Anagram
 import java.util.*;
-// LeetCode #242 - Valid Anagram
 public class P2ValidAnagramHashMap {
 
 	public static boolean isAnagram(String s, String t) {

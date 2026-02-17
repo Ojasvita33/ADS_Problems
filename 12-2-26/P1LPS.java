@@ -1,4 +1,4 @@
-// LeetCode #5 - Longest Palindromic Substring
+// #5 - Longest Palindromic Substring(returns string)
 
 public class P1LPS {
     public static void main(String[] args) {

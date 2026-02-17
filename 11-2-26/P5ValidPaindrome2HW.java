@@ -1,4 +1,4 @@
-// LeetCode #680 - Valid Palindrome II
+//#680 - Valid Palindrome II
 public class P5ValidPaindrome2HW {
     public boolean validPalindrome(String s) {
         int left = 0;

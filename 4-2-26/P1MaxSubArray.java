@@ -1,4 +1,4 @@
-// LeetCode #53 - Maximum Subarray
+// #53 - Maximum Subarray
 public class P1MaxSubArray {
     //array={2,1,3,5,9,3,2};
     //k=3;

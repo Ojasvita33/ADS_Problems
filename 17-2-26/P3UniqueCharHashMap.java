@@ -1,5 +1,5 @@
+//387 - First Unique Character in a String
 import java.util.HashMap;
-//387
 public class P3UniqueCharHashMap {
     public static int firstUniqChar(String s) {
         HashMap<Character, Integer> map = new HashMap<>();

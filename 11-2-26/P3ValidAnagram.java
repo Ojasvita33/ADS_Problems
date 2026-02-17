@@ -1,4 +1,4 @@
-// LeetCode #242 - Valid Anagram
+// #242 - Valid Anagram
 public class P3ValidAnagram {
     public static void main(String[] args) {
         // Test cases

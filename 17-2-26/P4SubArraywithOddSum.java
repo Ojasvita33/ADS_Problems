@@ -1,4 +1,4 @@
-//LeetCode #1524 - Subarray with Odd Sum
+//#1524 - Subarray with Odd Sum
 public class P4SubArraywithOddSum {
     public static int numOfSubarrays(int[] arr) {
         int count = 0;

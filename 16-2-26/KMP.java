@@ -1,4 +1,4 @@
-// LeetCode #28 - Find the Index of the First Occurrence in a String
+// #28 - Find the Index of the First Occurrence in a String
 public class KMP {
     public int strStr(String haystack, String needle) {
         if (needle.length() == 0) return 0;
