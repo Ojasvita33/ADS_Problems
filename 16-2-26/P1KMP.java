@@ -1,5 +1,5 @@
 // #28 - Find the Index of the First Occurrence in a String
-public class KMP {
+public class P1KMP {
     public int strStr(String haystack, String needle) {
         if (needle.length() == 0) return 0;
 
@@ -29,7 +29,7 @@ public class KMP {
             needle = "ll";
         }
 
-        KMP k = new KMP();
+        P1KMP k = new P1KMP();
         int idx = k.strStr(haystack, needle);
         System.out.println(idx);
     }
