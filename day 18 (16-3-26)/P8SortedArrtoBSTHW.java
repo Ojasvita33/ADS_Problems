@@ -32,6 +32,7 @@ public class P8SortedArrtoBSTHW {
     }
     public static void main(String[] args) {
         int[] nums = {-10, -3, 0, 5, 9};
+        @SuppressWarnings("unused")
         TreeNode root = sortedArrayToBST(nums); 
     }
 }
